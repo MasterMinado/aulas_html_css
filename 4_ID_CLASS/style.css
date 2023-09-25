@@ -1,0 +1,25 @@
+#titulo-h2 {
+    color: darkorange;
+}
+
+.fundo-amarelo {
+    background-color: yellow;
+}
+
+.texto-vermelho{
+    color: red;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+p {
+    color: steelblue;
+}
+
+h2 {
+    color: brown;
+}
+
+/* cascata  */
