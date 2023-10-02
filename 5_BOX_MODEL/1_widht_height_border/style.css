@@ -1,0 +1,15 @@
+.caixa_width {
+    /* espessura, tipo e a cor => Width, style, color */
+    /* border-width: 2px; */
+    /* border-style: solid;  */
+    /* border-color: red; */
+
+    /* shorthand => varios valores na mesma propriedade */
+    border: 2px solid #f00;
+
+    width: 400px;
+}
+.imagem_width {
+    width: 400px;
+}
+
